@@ -3,8 +3,8 @@
 This project is a modern, responsive Single Page Application (SPA) built as part of the Frontend Developer Intern assessment. It fetches real-time data from an external API and provides a seamless interface for users to browse and search for products.
 
 ## 🚀 Live Demo
-**Live Deployment:** 
-**Video Demonstration:** 
+**Live Deployment:** https://interactive-data-explorer-lovat.vercel.app/
+**Video Demonstration:** []
 
 ## 🛠️ Chosen Technologies
 - **React.js (Vite):** Chosen for its efficient rendering and component-based architecture.
