@@ -50,5 +50,7 @@ Follow these steps to run the project locally:
 4. **Run the Project:**
    ```Bash
    npm run dev
-   ## 👩‍💻 Author
-  Prerna Frontend Developer
+   
+## 👩‍💻 Author
+Prerna Frontend Developer
+
